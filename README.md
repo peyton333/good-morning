@@ -1,2 +1,2 @@
 # good-morning
-Make yourself a morning 
+Make yourself a morning routine using this app. 
